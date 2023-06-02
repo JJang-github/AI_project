@@ -1,2 +1,2 @@
 JJang
-JJang-github AI project2
+JJang-github AI project
